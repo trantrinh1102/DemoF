@@ -1,4 +1,7 @@
 en:
+  flash:
+    success:
+      create: "create successfully!"
   hello: "Hello world"
   static_page:
     home: "Home"
@@ -16,3 +19,21 @@ en:
     contact: "Contact Us"
     features: "Features"
     search: "Search"
+  time:
+    formats:
+      short_date: "%m/%d/%Y"
+  admin:
+    categories:
+      new:
+        title: "Create category"
+      form:
+        save: "Save"
+      search_form:
+        search: "search"
+      index:
+        title: "List categories"
+        number_order: "No."
+        name: "Name"
+        description: "Description"
+        created_at: "Created at"
+        new: "Add new"
