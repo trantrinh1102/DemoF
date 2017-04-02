@@ -37,8 +37,10 @@ gem "simple_form"
 gem "carrierwave",             "0.10.0"
 gem "mini_magick",             "3.8.0"
 gem "faker",        "1.4.2"
-gem 'will_paginate', '3.1.5'
+gem "kaminari"
 gem "config"
+gem "bootstrap-kaminari-views"
+gem "ransack"
 
 group :development, :test do
   # Call "byebug" anywhere in the code to stop execution and get a debugger console
